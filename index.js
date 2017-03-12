@@ -21,10 +21,10 @@ function handle(eventName, action) {
       arr: [],
       map: {}
     };
-    _EVENT_ACTIONS[eventName] = actions
+    _EVENT_ACTIONS[eventName] = actions;
   }
   if (actions.map[eventName]) {
-    return
+    return;
   }
   actions.map[eventName] = true;
   actions.arr.push(action);
