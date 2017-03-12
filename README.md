@@ -2,7 +2,7 @@
 
 This is a synchronus dispatcher that enables you to dispatch application-wide events everywhere in your app and handle them
 everywhere inside your app. Simple is beautiful - and usually works better as well! Goodbye Redux and other overly complicated
-"architectures", "paradigms" and other brain farts. Dispatch wherever you want. Handle wherever you like. For fast coding. Just forget
+"architectures", "paradigms", "frameworks" and other such brain farts. Dispatch wherever you want. Handle wherever you like. For fast coding. Just forget
 all academic theorizations for a second and try it out - You'll notice that this just works. Use it with Angular or React or whatever
 you like. Make no mistake: It just works. I've been around for quite a while and I know what I am talking about.
 
