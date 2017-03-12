@@ -1,0 +1,26 @@
+{
+  "name": "synchronous-dispatcher",
+  "version": "1.0.0",
+  "description": "Synchronous Dispatcher is an easy way to dispatch and handle application-wide events.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/develprr/synchronous-dispatcher.git"
+  },
+  "keywords": [
+    "dispatch",
+    "handle",
+    "listen",
+    "events",
+    "global"
+  ],
+  "author": "Heikki Kupiainen / Oppikone",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/develprr/synchronous-dispatcher/issues"
+  },
+  "homepage": "https://github.com/develprr/synchronous-dispatcher#readme"
+}
