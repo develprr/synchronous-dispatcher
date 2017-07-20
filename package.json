@@ -1,6 +1,6 @@
 {
   "name": "synchronous-dispatcher",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Synchronous Dispatcher is an easy way to dispatch and handle application-wide events.",
   "main": "index.js",
   "scripts": {

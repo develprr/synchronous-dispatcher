@@ -30,7 +30,7 @@ And when you want to catch the event:
 import { handle } from 'synchronous-dispatcher';
 
 handle('MY-EVENT', function(item) {
-  console.log("I catch the event here..');
+  console.log('I catch the event here..');
   console.log(item);
 });
 
