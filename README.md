@@ -36,13 +36,29 @@ handle('MY-EVENT', function(item) {
 
 ```
 
-When you want to remove an event from event space alltogether:
+You can also register a handler under specified ID. It is useful
+when you want to explicitely emove that handler later:
+
+```js
+
+handle('MY-EVENT', 'MANAGER', function(item) {
+  console.log('I catch the event here..');
+  console.log(item);
+});
+
+```
+
+Note that if you define a new handler for 'MY-EVENT' under same ID 'MANAGER',
+your new handler will override the previous one. If you want one event to launch many handlers,
+you must define each handler under different ID!
+
+When you want to kill a certain handler for a certain event, in this case a handler with id 'MANAGER' for 'MY-EVENT':
 
 ```js
 
 import { unhandle } from 'synchronous-dispatcher';
 
-unhandle('MY-EVENT')
+unhandle('MY-EVENT', 'MANAGER')
 
 ```
 
