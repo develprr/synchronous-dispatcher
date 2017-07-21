@@ -4,7 +4,7 @@ This is a synchronous dispatcher that enables you to dispatch application-wide e
 everywhere inside your app. Simple is beautiful - and usually works better as well! . For fast coding. Just forget
 all academic theorizations for a second and try it out - You'll notice that this just works. Use it with Angular or React or whatever you like.
 
-If you like to know more about Synchronous Dispatcher, please visit the [blog post] (http://www.oppikone.fi/blog/introducing-synchronous-dispatcher.html) or check out a [sample React App] (https://github.com/develprr/synchronous-dispatcher-demo) using Synchronous Dispatcher.
+If you like to know more about Synchronous Dispatcher, please visit the [blog post](http://www.oppikone.fi/blog/introducing-synchronous-dispatcher.html) or check out a [sample React App](https://github.com/develprr/synchronous-dispatcher-demo) using Synchronous Dispatcher.
 
 ## Installation
 
