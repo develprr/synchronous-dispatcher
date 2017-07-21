@@ -37,7 +37,7 @@ handle('MY-EVENT', function(item) {
 ```
 
 You can also register a handler under specified ID. It is useful
-when you want to explicitely emove that handler later:
+when you want to explicitely remove that handler later:
 
 ```js
 
