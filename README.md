@@ -57,3 +57,4 @@ Heikki Kupiainen / Oppikone
 
 ## Tutorial
 
+Please visit the [blog post](http://www.oppikone.fi/blog/introducing-synchronous-dispatcher.html) for tutorial.
