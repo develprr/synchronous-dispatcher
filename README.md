@@ -1,4 +1,8 @@
-# synchronous-dispatcher
+# Synchronous Dispatcher is deprecated!
+
+Synchronous Dispatcher is deprecated. Development is continued in [Metamatic package!](https://www.npmjs.com/package/metamatic)
+
+## introduction
 
 This is a synchronous dispatcher that enables you to dispatch application-wide events everywhere in your app and handle them
 everywhere inside your app. Simple is beautiful - and usually works better as well! This is a framework for no-nonsense fast coding. Just forget
